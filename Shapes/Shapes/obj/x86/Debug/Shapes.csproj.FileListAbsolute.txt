@@ -1,0 +1,5 @@
+/home/kiara21/Projects/Shapes/Shapes/bin/Debug/Shapes.exe
+/home/kiara21/Projects/Shapes/Shapes/bin/Debug/Shapes.pdb
+/home/kiara21/Projects/Shapes/Shapes/obj/x86/Debug/Shapes.csproj.CoreCompileInputs.cache
+/home/kiara21/Projects/Shapes/Shapes/obj/x86/Debug/Shapes.exe
+/home/kiara21/Projects/Shapes/Shapes/obj/x86/Debug/Shapes.pdb
